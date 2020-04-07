@@ -1,0 +1,77 @@
+body{
+	margin: 0;
+	padding: 0;
+	background:  url(pic30.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+}
+
+.menu{
+	width: 100%;
+	height: 100px;
+	background-color: rgba(0,0,0,0.5);
+}
+
+.leftmenu{
+	width:55%;
+	line-height: 20px;
+	float: left;
+}
+
+.leftmenu h4{
+	padding-left: 70px;
+	font-weight: bold;
+	color: white;
+	font-size: 30px;
+	font-family: sans-serif;
+}
+
+.studentrightmenu{
+	width:45%;
+	line-height: 60px;
+	float: left;
+}
+
+.studentrightmenu ul li{
+	display: inline-block;
+}
+
+.studentrightmenu ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 20px 30px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.studentrightmenu ul li a:hover{
+	color: orange;
+}
+
+.text{
+	text-decoration: none;
+	padding: -20px -20px;
+	width: 100%;
+	margin-top: 300px;
+	text-transform: uppercase;
+	text-align: center;
+	color: white;
+	float: left;
+}
+
+.text{
+	position: absolute;
+	font-size: 80px;
+	font-family: sans-serif;
+}
+
+.text h1{
+	font-size: 40px;
+	font-family:  sans-serif;
+	font-weight: bold;
+	margin: 14px 0px;
+	float: left;
+	margin-top: -250px;
+}
+
